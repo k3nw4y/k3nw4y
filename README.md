@@ -1,4 +1,12 @@
 ### Hi there 👋
+ - 🔭 I’m currently working on [E-corp](http://k3nw4y.ml)
+ - 🌱 I’m currently learning Minecraft Fabric moding
+ - 👯 I’m looking to collaborate on creating Minecraft Servers
+ - 💬 Ask me about anything Google is my Best Friend
+ - 📫 How to reach me: [:email:](mailto:k3nw4y@k3nw4y.ml)
+ - ⚡ Fun factis that i have ADHD
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **k3nw4y/k3nw4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
