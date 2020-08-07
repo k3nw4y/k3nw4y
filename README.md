@@ -6,7 +6,7 @@
  - 📫 How to reach me: [:email:](mailto:k3nw4y@k3nw4y.ml)
  - ⚡ Fun factis that i have ADHD
  
- ![](https://komarev.com/ghpvc/?username=your-github-username)
+ ![](https://komarev.com/ghpvc/?username=k3nw4y)
 
 <!--
 **k3nw4y/k3nw4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
